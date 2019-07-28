@@ -12,5 +12,7 @@
 # Примеры запуска:
 
 oscript cfMaker.os
+
 oscript cfMaker.os config
+
 oscript cfMaker.os configv8.cf
